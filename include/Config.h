@@ -5,6 +5,15 @@
 
 // MOTOR PARAMS
 
+
+#define LEFT_CLK_A_PIN 2
+#define LEFT_B_PIN 4
+#define LEFT_ENC_DIR -1
+
+#define RIGHT_CLK_A_PIN 3
+#define RIGHT_B_PIN 5
+#define RIGHT_ENC_DIR 1
+
 #define ENC_PPR 48
 #define GEAR_RATIO 30
 
